@@ -1,16 +1,19 @@
-## Hi there 👋
+![Logo](https://avatars.githubusercontent.com/u/111557414?v=4)
+## 🚀 About Me
+My name Egor
 
-<!--
-**Bit01101/Bit01101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I developers working on my application for search interesting and useful information.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- C#
+- JavaScript / TypeScript
+- Vue
+- HTML
+- CSS
+- Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Feedback
+
+If you have any feedback, please reach out to us at:
+ - Telegram : https://t.me/Egor01101
+ - Mail : Bit01101@yandex.ru
