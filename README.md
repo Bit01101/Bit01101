@@ -6,6 +6,8 @@ I developers working on my application for search interesting and useful informa
 
 ## 🛠 Skills
 - C#
+- ASP.NET
+- MySQL
 - JavaScript / TypeScript
 - Vue
 - HTML
